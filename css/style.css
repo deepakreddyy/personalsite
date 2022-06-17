@@ -1,0 +1,140 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514E;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  line-height: 2;
+}
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  line-height: 2;
+}
+h3 {
+    color:#11999E;
+  font-family: "Montserrat", sans-serif;
+}
+.top-cloud {
+  position: absolute;
+  left: 650px;
+  top: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  right: 650px;
+  bottom: 450px;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+    margin:100px 0;
+}
+.bottom-container {
+    margin-top: 30px;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.deepak {
+  width: 10%;
+  height: 10%;
+  border-radius: 50%;
+  margin-top: 40px;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+  width: 20%;
+  line-height: 2;
+}
+.skillspic{
+    margin-right: 30px;
+    width: 30%;
+    float: left;
+}
+.swim{
+    float: right;
+    width: 30%;
+    margin-left: 30px;
+}
+
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+.contact-msg{
+    width:40%;
+    margin: 40px auto 40px;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  .contact-me{
+    line-height: 2;
+  }
+  a{
+    color: #11999E;
+    font-family: "Montserrat", sans-serif;
+margin:10px 20px;
+text-decoration: none;
+  }
+a:hover{
+    color:#EAF6F6;
+}
+.copyright{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+.hobbies{
+    margin: auto;
+
+}
+.chessimg{
+    width: 7%;
+    margin-right: 30px;
+}
+.gamesimg{
+    margin-top: 50px;
+    width: 7%;
+    margin-left: 200px;
+}
+.chesslink{
+    font-size: 200%;
+    font-weight: 200;
+}
